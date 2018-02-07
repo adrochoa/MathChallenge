@@ -6,6 +6,7 @@ The second ball you remove, color it the same as the first,
 and put the two balls back in the bag.
 What is the average number of times you do this
 before all balls are the same color?
+Solution by Adrian Ochoa 02/07/2018
 ---------------------------------------------------------'''
 
 # This script provides strong evidence in favor of the answer
